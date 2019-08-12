@@ -101,7 +101,8 @@ We start assembly:
 
 # make -j4 recoveryimage 
 
-We take the finished recovery along the path omni/out/target/product/
+
+# We take the finished recovery along the path omni/out/target/product/j3y17lte
 
 
 
