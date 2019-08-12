@@ -71,7 +71,7 @@ TW_NO_SCREEN_TIMEOUT := true
 TW_USE_TOOLBOX := true
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TW_DEFAULT_LANGUAGE := ru
-#TW_DEVICE_VERSION := by mehanik6 and Maslo_Jojoba
+#TW_DEVICE_VERSION := by mehanik6 and Maslo_Jojoba @4pda.ru
 # Crypto
 TW_INCLUDE_CRYPTO := true
 
